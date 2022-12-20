@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "getting-to-philosophy": "^2.1.1",
+    "prompt": "^1.2.2",
+    "readline-sync": "^1.4.10",
+    "website-scraper": "^5.0.0"
+  }
+}
